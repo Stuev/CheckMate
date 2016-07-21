@@ -1,1 +1,1 @@
-include ':checkmate'
+include ':checkmate', ':checkmateapp2'
